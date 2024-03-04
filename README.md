@@ -38,7 +38,7 @@ Mobile design
 
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Expenses-chart-component.git)
-- Live Site URL: [Dunniola]()
+- Live Site URL: [Dunniola](https://dunniola.github.io/Expenses-chart-component/)
 
 ## My process
 
@@ -52,6 +52,6 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola]()
+- Website - [Dunniola](https://dunniola.github.io/Expenses-chart-component/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
